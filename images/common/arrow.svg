@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="11px" viewBox="0 0 31 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>arro</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Shin-City" transform="translate(-296.000000, -647.000000)" stroke="#FFFFFF" stroke-width="1.28">
+            <g id="Content" transform="translate(187.000000, 234.000000)">
+                <g id="arro-white" transform="translate(110.000000, 413.000000)">
+                    <path d="M0.5,5.5 L28,5.5" id="Line"></path>
+                    <path d="M29,5 L26.3125807,1.41677433" id="Line"></path>
+                    <path d="M29,6 L26.3125807,9.58322567" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

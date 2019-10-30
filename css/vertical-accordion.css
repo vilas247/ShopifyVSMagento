@@ -1,0 +1,42 @@
+.accordion__container {
+}
+
+    .accordion__container::after {
+        content: ' ';
+        display: table;
+        clear: both;
+    }
+
+.accordion__item-wrapper {
+    margin-left: -1px;
+    margin-right: -1px;
+}
+
+.accordion__item {
+    height: 500px;
+    width: 16.666%;
+    float: left;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+}
+
+    .accordion__item.state-collapsed {
+        width: 50px;
+    }
+
+    .accordion__item.state-active {
+        width: calc(100% - 250px);
+    }
+
+.hidesubclass {
+    display: none;
+}
+
+.showsubclass {
+    display: block;
+}
+
+.showverticalclass {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
